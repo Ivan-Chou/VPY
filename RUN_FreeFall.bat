@@ -1,0 +1,2 @@
+python FreeFall.py
+PAUSE
